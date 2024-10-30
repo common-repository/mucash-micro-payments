@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+.mucash_thankyou,  .mucash_donation_notice {
+    font-size: 14px;
+    font-style: italic;
+    background: url("https://mucash.com/media/images/logo-16.png") no-repeat;
+    padding-left: 18px !important;
+    min-height: 16px;
+}
+
+.mucash_warning {
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+}
+
+.mucash_appeal {
+    margin: 0.5em 0 1em;
+    font-size: 80%;
+    font-style: italic;
+}
+
+.mucash_logo_16 {
+    position: relative;
+    top: 3px;
+}
